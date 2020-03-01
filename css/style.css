@@ -1,0 +1,172 @@
+body
+{background-image: linear-gradient(to right, red , black);
+}
+.h1,.nav{
+    color:rgb(85, 8, 8);
+    text-align:center;
+    padding: 0%;
+    margin-left: 5%;
+    margin-top: 0;
+
+    
+}
+.h2{
+    color:white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left:70px;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin-left:23%;}
+li :hover{color:red;}
+
+button:hover{ color: lightblue;}
+
+div{display: inline;}
+h4{background-image :url('https://iyadhkhalfallah.github.io/checkpointsGMC/res/webdev3.png');}
+#p{
+    background-color: #337ab7;
+    color:white ;
+    border-color:#337ab7 ;
+    width: 70px;
+    height: 36px;
+    border: 1px ;
+    font-size: 14px;
+    font-family: inherit;
+    font-weight: 400;
+    border-radius: 4px;
+    cursor: pointer;
+    padding: 6px 12px;
+    margin-top: 1em;
+    line-height: 1.42857143;
+    
+    
+}
+#p:hover{
+    background-color: rgb(39, 96, 114);
+    opacity: 0.4;
+    
+}
+a{text-decoration:none; }
+.marge{margin-left:45%;}
+.h{margin-bottom: 15%;}
+h1,input{margin-left: 45%;
+}
+b{
+    margin-left: 51%;
+    color: white;
+    font-family: serif;
+    
+}
+.o{
+    margin-left: 45%;
+    display: block;
+    width: 16%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    -webkit-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+}
+iframe{margin-left: 30%;}
+w{margin-left: 30%;}
+.n{
+    width: 100%;
+    height: 450px;
+    padding: 50px;
+    background-image: url(https://iyadhkhalfallah.github.io/checkpointsGMC/res/webdev3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 87px;
+    box-shadow: 50 3px 2px rgba(0, 0, 0, .5);
+    box-sizing: border-box;
+    
+    font-size: 6em;
+    font-family: 'Bree Serif', serif;
+    color: #fff;
+    position: relative;
+    top: 100%;
+    text-shadow: 5px 2px rgb(12, 11, 11);
+    margin: 30px 0 40px 500px;
+}
+
+.cover {
+    width: 100%;
+    height: 450px;
+    padding: 50px;
+    background-image: url(https://iyadhkhalfallah.github.io/checkpointsGMC/res/webdev3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 87px;
+   margin-left: 0%;
+    box-sizing: border-box;}
+    .cover .heading {
+        font-size: 6em;
+        font-family: 'Bree Serif', serif;
+        
+        position: relative;
+        top: 40%;
+        text-shadow: 5px 2px rgb(12, 11, 11);
+    }
+.heading {
+    color: white;
+    font-size: 4em;
+    font-family: 'Bree Serif', serif;
+    margin: -30px 0 190px 390px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, .5);
+}
+div {
+    display: block;}
+textarea{margin-left: 30%;}
+.z{
+    margin-left: 0;
+}
+.nav li {display: inline-block;}
+#c{margin-left: 20%;
+margin-bottom: 2%;
+widows: 50px; ;
+height: 160px;
+}
+.c1:hover{
+    opacity: 0.3;
+}
+#v{margin-left:3%;
+margin-bottom: 2%;}
+
+
+#k{margin-left: 3%;
+margin-bottom: 2%;}
+
+
+#w{ font-size: 50xp;
+margin-bottom: 10xp;
+margin-top: 20px;
+font-family: inherit;
+font-weight: 500;}
+.row {
+    display: flex;
+    
+  }
+  
+  .column {
+    
+    padding: 5px;
+  }
+  .i:hover{opacity: 0.3;}
+  
+
